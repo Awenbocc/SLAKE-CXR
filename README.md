@@ -1,3 +1,3 @@
-# SLAKE-CXR
+# GEMeX
 
-This is SLAKE
+We provide some data and training codes for review.
